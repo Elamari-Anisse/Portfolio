@@ -1,0 +1,53 @@
+1. Objectif et Description du Projet :
+
+-   L'objectif est de créer un portfolio classique en ligne pour présenter mes projets et compétences.
+-   Le portfolio servira de vitrine professionnelle pour les recruteurs et les pairs.
+
+2. Contenu du Portfolio :
+
+-   Le portfolio comprendra une page d'accueil, avec une présentation, le contenu de mes projets, la visualisation de mes compétences, un fomulaire de contact, et mes différents réseaux.
+-   Chaque projet sera présenté individuellement avec une description, des captures d'écran et des liens pertinents.
+
+3. Design et Esthétique :
+
+-   Le design sera sobre et professionnel, avec une utilisation de Bootstrap pour une mise en page réactive.
+-   Des couleurs neutres et une typographie lisible seront utilisées pour assurer la lisibilité.
+-   Le design s'adaptera en fonction du contenu qui pourra être ajouté.
+
+4. Fonctionnalités :
+
+-   Un mode administrateur permettra de mettre à jour facilement le contenu textuel et visuel du portfolio.
+-   L'interface d'administration comprendra des fonctionnalités pour ajouter, modifier ou supprimer des projets et du contenu.
+-   Des liens vers mes différents réseaux sociaux ainsi qu'un moyen de me contacter directement seront mis en place.
+
+5. Entitées :
+
+-   La navbar : contenant un lien envoyant vers le home, mes projects, mes compétences, me contacter, mes réseaux sociaux, la nav bar suivera la page.
+-   Présentation : une section comprenant une image de moi-même accompagnée d'une description qui offre un aperçu de ma personne.
+-   Mes projets : l'espace où sont regroupés mes réalisations personnelles ou collaboratives, démontrant ainsi mon expertise et mes compétences dans différents domaines.
+-   Mes compétences : une barre de progression adaptable pour chaque langage et framework, fournissant une visualisation succincte de mon niveau de compétence dans ces domaines.
+-   Le formulaire de contact : le formulaire de contact permet aux visiteurs d'un site web de soumettre des messages à l'administrateur en remplissant des champs préétablis.
+-   Les réseaux : 
+
+6. Technologies Utilisées :
+
+-   Le développement se fera principalement avec HTML, CSS (utilisant Bootstrap) et JavaScript.
+-   jQuery sera utilisé pour simplifier le traitement des événements et des interactions utilisateur.
+
+7. Accessibilité et Compatibilité :
+
+-   Le portfolio sera conçu pour être compatible avec les navigateurs les plus courants (Chrome, Firefox, Safari, Edge).
+-   Une attention particulière sera portée à l'accessibilité pour garantir une expérience utilisateur optimale pour tous.
+
+8. Gestion de Projet :
+
+-   Le projet sera divisé en différentes phase de conception, le développement du frontend, du haut de la page au bas en prenant en compte le design et ensuite du backend, toutes les données du site.
+
+9. Test et Validation :
+
+-   Le site sera testé sur différents appareils, résolutions et navigateurs pour assurer sa fonctionnalité et une apparence correcte.
+
+10. Maintenance et Mises à Jour :
+
+-   Une fois déployé, le portfolio sera régulièrement maintenu avec de nouveaux projets ajoutés au besoin.
+-   Le mode administrateur simplifie les mises à jour régulières, garantissant ainsi que le portfolio demeure constamment à jour, reflétant ainsi mes compétences les plus récentes.
