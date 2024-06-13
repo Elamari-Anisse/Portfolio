@@ -1,0 +1,146 @@
+ul.navbar-nav li.nav-item a.nav-item{
+    color: white !important;
+    text-decoration: none !important;
+    padding: 2 !important;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+h2.anisse{
+    color: white;
+}
+
+ul.nav-admin li.nav-item-admin a.nav-item-admin{
+    color: white !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+}
+
+.conteneur{
+    min-height: 100vh;
+    
+}
+
+div.main div.dashboard a.dashboard-brand{
+    color: white !important;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+li.li-dashboard a{
+    color: white !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    list-style-type: none;
+    margin:20px;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+section.presentation {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #0d6efd!important;   
+}
+.head_presentation{
+    height: 20vh;
+}
+.copyright{
+    background-color: black;
+    font-weight: 500;
+}
+.reseaux{
+    background-color: #0d6efd;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color: white;
+}
+.lead{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.btn_msg{
+    background-color: #0d6efd;
+}
+.contact_titre{
+    font-size: 2.8rem;
+    line-height: 2.5rem;
+    color: #0d6efd;
+}
+.divider-custom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divider-custom .divider-custom-line:first-child {
+    margin-right: 1rem;
+}
+
+.divider-custom .divider-presentation:first-child {
+    margin-right: 1rem;
+}
+
+.divider-custom .divider-custom-line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #0d6efd;
+    border-radius: 1rem;
+    border-color: #0d6efd;
+}
+
+.divider-custom .divider-presentation {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: white;
+    border-radius: 1rem;
+    border-color: white;
+}
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #0d6efd;
+}
+
+.portfolio .portfolio-item {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    max-width: 25rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.2s ease-in-out;
+    opacity: 0;
+    background-color: rgba(26, 188, 156, 0.9);
+}
+
+.modal.opaque .modal-content {
+    background-color: #fff;
+}
+
+.main1 {
+    background-color: #0d6efd;
+    
+}
+.main2{
+    background-color: white;
+}
